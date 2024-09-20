@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MongoDB-mini/static/css/main.d11c240a.css",
+    "main.js": "/MongoDB-mini/static/js/main.3ac51260.js",
+    "static/js/453.ed3810f9.chunk.js": "/MongoDB-mini/static/js/453.ed3810f9.chunk.js",
+    "static/media/bg.jpg": "/MongoDB-mini/static/media/bg.892f970b43f4606fa40a.jpg",
+    "static/media/logo.png": "/MongoDB-mini/static/media/logo.016e90fde94927435a32.png",
+    "static/media/image.png": "/MongoDB-mini/static/media/image.3d86e4af4fbebff1a97f.png",
+    "index.html": "/MongoDB-mini/index.html",
+    "main.d11c240a.css.map": "/MongoDB-mini/static/css/main.d11c240a.css.map",
+    "main.3ac51260.js.map": "/MongoDB-mini/static/js/main.3ac51260.js.map",
+    "453.ed3810f9.chunk.js.map": "/MongoDB-mini/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d11c240a.css",
+    "static/js/main.3ac51260.js"
+  ]
+}
